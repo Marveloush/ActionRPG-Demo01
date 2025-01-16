@@ -2539,3 +2539,224 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.16-03.45.11:242][448]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.01.16-03.45.11:242][448]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.01.16-03.45.11:242][448]AssetCheck: /Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp 正在验证资产
+[2025.01.16-03.51.25:685][ 75]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 48881.250000
+[2025.01.16-03.51.26:685][ 78]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.16-03.51.26:685][ 78]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 48881.914062, Update Interval: 302.347473
+[2025.01.16-03.57.14:427][121]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 49229.285156
+[2025.01.16-03.57.15:428][124]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.16-03.57.15:428][124]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 49229.953125, Update Interval: 342.595306
+[2025.01.16-04.03.46:843][298]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 49620.945312
+[2025.01.16-04.03.47:841][301]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.16-04.03.47:841][301]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 49621.613281, Update Interval: 305.976746
+[2025.01.16-04.04.59:527][516]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: eeb...5de
+[2025.01.16-04.04.59:527][516]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.91 RefreshExpires: 1.547e+07
+[2025.01.16-04.05.00:528][519]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: eeb...5de Access[Expires: 2025.01.16-06.05.00 Remaining: 7200.02] Refresh[Expires: 2025-07-14T04:18:40.559Z Remaining: 15466420.56] State: Valid
+[2025.01.16-04.09.33:915][339]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 49967.312500
+[2025.01.16-04.09.34:915][342]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.16-04.09.34:915][342]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 49967.976562, Update Interval: 336.180908
+[2025.01.16-04.15.49:991][467]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 50342.679688
+[2025.01.16-04.15.50:991][470]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.16-04.15.50:992][470]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 50343.347656, Update Interval: 332.374023
+[2025.01.16-04.18.03:276][867]LogDerivedDataCache: C:/Users/v_wxcnwang/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 18 files in 40 folders with total size 0 MiB.
+[2025.01.16-04.22.23:084][646]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 50735.019531
+[2025.01.16-04.22.24:084][649]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.16-04.22.24:084][649]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 50735.683594, Update Interval: 346.017639
+[2025.01.16-04.28.52:496][814]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 51123.628906
+[2025.01.16-04.28.53:498][817]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.16-04.28.53:498][817]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 51124.292969, Update Interval: 347.072357
+[2025.01.16-04.35.30:920][  9]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 51521.324219
+[2025.01.16-04.35.31:920][ 12]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.16-04.35.31:920][ 12]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 51521.988281, Update Interval: 344.880524
+[2025.01.16-04.41.48:004][140]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 51897.699219
+[2025.01.16-04.41.49:005][143]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.16-04.41.49:005][143]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 51898.363281, Update Interval: 315.870239
+[2025.01.16-04.47.42:086][202]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 52251.109375
+[2025.01.16-04.47.43:086][205]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.16-04.47.43:086][205]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 52251.773438, Update Interval: 353.981140
+[2025.01.16-04.54.10:834][368]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 52639.125000
+[2025.01.16-04.54.12:167][372]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.16-04.54.12:167][372]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 52640.125000, Update Interval: 354.268616
+[2025.01.16-05.00.53:570][576]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 53040.941406
+[2025.01.16-05.00.54:569][579]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.16-05.00.54:569][579]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 53041.605469, Update Interval: 314.088562
+[2025.01.16-05.03.55:056][714]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp.HeroAnimbp
+[2025.01.16-05.03.55:056][714]LogChaosDD: Creating Chaos Debug Draw Scene for world World_22
+[2025.01.16-05.03.55:072][714]LogChaosDD: Creating Chaos Debug Draw Scene for world World_23
+[2025.01.16-05.03.55:091][714]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.16-05.03.55:649][714]LogChaosDD: Creating Chaos Debug Draw Scene for world World_24
+[2025.01.16-05.04.37:384][383]LogStreaming: Display: FlushAsyncLoading(713): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.16-05.04.37:394][383]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Jump_Fall.Jump_Fall (Required Memory Estimate: 1.06 MB)
+[2025.01.16-05.04.37:417][383]LogAnimationCompression: Display: Storing compressed animation data for /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Jump_Fall.Jump_Fall, at AnimationSequence/9e530c6d31aa68154b711ef005014bbc1f3e2264
+[2025.01.16-05.05.50:578][467]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2025.01.16-05.05.50:594][467]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ParagonGreystone/Characters/Heroes/Greystone/AnimationTestMap' took 0.072
+[2025.01.16-05.05.50:595][467]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp] ([2] browsable assets)...
+[2025.01.16-05.05.50:692][467]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp.HeroAnimbp]
+[2025.01.16-05.05.50:692][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp]
+[2025.01.16-05.05.50:717][467]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp_Auto3
+[2025.01.16-05.05.50:717][467]LogSavePackage: Moving '../../../../../UEspace/ActionRPG-Demo01/Saved/HeroAnimbp_Auto30145255E4943A4E32514F880B083DF06.tmp' to '../../../../../UEspace/ActionRPG-Demo01/Saved/Autosaves/Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp_Auto3.uasset'
+[2025.01.16-05.05.50:722][467]LogFileHelpers: Auto-saving content packages took 0.128
+[2025.01.16-05.06.54:382][400]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 53401.464844
+[2025.01.16-05.06.54:674][414]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.16-05.06.54:674][414]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 53401.738281, Update Interval: 300.970490
+[2025.01.16-05.07.48:848][795]LogBlueprint: Warning: [AssetLog] D:\UEspace\ActionRPG-Demo01\Content\ParagonGreystone\Characters\Heroes\Greystone\HeroAnimbp.uasset: [Compiler] Jump_Start到Jump_Land  will never be taken, please connect something to  Can Enter Transition
+[2025.01.16-05.07.48:848][795]LogBlueprint: Warning: [AssetLog] D:\UEspace\ActionRPG-Demo01\Content\ParagonGreystone\Characters\Heroes\Greystone\HeroAnimbp.uasset: [Compiler] Jump_Land到Jump_Fall  will never be taken, please connect something to  Can Enter Transition
+[2025.01.16-05.07.48:848][795]LogBlueprint: Warning: [AssetLog] D:\UEspace\ActionRPG-Demo01\Content\ParagonGreystone\Characters\Heroes\Greystone\HeroAnimbp.uasset: [Compiler] Jump_Fall到HeroBS1D  will never be taken, please connect something to  Can Enter Transition
+[2025.01.16-05.07.48:911][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2025.01.16-05.08.14:674][920]LogBlueprint: Warning: [AssetLog] D:\UEspace\ActionRPG-Demo01\Content\ParagonGreystone\Characters\Heroes\Greystone\HeroAnimbp.uasset: [Compiler] Jump_Start到Jump_Land  will never be taken, please connect something to  Can Enter Transition
+[2025.01.16-05.08.14:674][920]LogBlueprint: Warning: [AssetLog] D:\UEspace\ActionRPG-Demo01\Content\ParagonGreystone\Characters\Heroes\Greystone\HeroAnimbp.uasset: [Compiler] Jump_Land到Jump_Fall  will never be taken, please connect something to  Can Enter Transition
+[2025.01.16-05.08.14:674][920]LogBlueprint: Warning: [AssetLog] D:\UEspace\ActionRPG-Demo01\Content\ParagonGreystone\Characters\Heroes\Greystone\HeroAnimbp.uasset: [Compiler] Jump_Fall到HeroBS1D  will never be taken, please connect something to  Can Enter Transition
+[2025.01.16-05.08.14:719][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.01.16-05.10.17:802][457]LogBlueprint: Warning: [AssetLog] D:\UEspace\ActionRPG-Demo01\Content\ParagonGreystone\Characters\Heroes\Greystone\HeroAnimbp.uasset: [Compiler] Jump_Land到Jump_Fall  will never be taken, please connect something to  Can Enter Transition
+[2025.01.16-05.10.17:802][457]LogBlueprint: Warning: [AssetLog] D:\UEspace\ActionRPG-Demo01\Content\ParagonGreystone\Characters\Heroes\Greystone\HeroAnimbp.uasset: [Compiler] Jump_Fall到HeroBS1D  will never be taken, please connect something to  Can Enter Transition
+[2025.01.16-05.10.17:872][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2025.01.16-05.11.34:730][ 71]LogEditorTransaction: Undo 添加节点
+[2025.01.16-05.11.34:952][ 71]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.16-05.12.18:269][661]LogSlate: Window '删除Variable' being destroyed
+[2025.01.16-05.12.35:693][520]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 53741.890625
+[2025.01.16-05.12.35:974][539]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.16-05.12.35:974][539]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 53742.164062, Update Interval: 319.592896
+[2025.01.16-05.12.39:885][756]LogBlueprint: Warning: [AssetLog] D:\UEspace\ActionRPG-Demo01\Content\ParagonGreystone\Characters\Heroes\Greystone\HeroAnimbp.uasset: [Compiler] Jump_Fall到HeroBS1D  will never be taken, please connect something to  Can Enter Transition
+[2025.01.16-05.12.39:949][756]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2025.01.16-05.13.23:414][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.01.16-05.13.32:654][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.01.16-05.13.33:693][757]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.16-05.13.33:758][757]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp] ([2] browsable assets)...
+[2025.01.16-05.13.33:772][757]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp.HeroAnimbp]
+[2025.01.16-05.13.33:772][757]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp]
+[2025.01.16-05.13.33:809][757]LogSavePackage: Moving output files for package: /Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp
+[2025.01.16-05.13.33:813][757]LogSavePackage: Moving '../../../../../UEspace/ActionRPG-Demo01/Saved/HeroAnimbp67BBCDCB4F21011C3E573BB9D3F04DD1.tmp' to '../../../../../UEspace/ActionRPG-Demo01/Content/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp.uasset'
+[2025.01.16-05.13.33:828][757]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.754 ms (total: 1.07 sec)
+[2025.01.16-05.13.33:892][757]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.16-05.13.33:892][757]LogContentValidation: Enabled validators:
+[2025.01.16-05.13.33:892][757]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.16-05.13.33:892][757]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.16-05.13.33:892][757]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.16-05.13.33:892][757]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.16-05.13.33:892][757]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.16-05.13.33:892][757]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.16-05.13.33:892][757]AssetCheck: /Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp 正在验证资产
+[2025.01.16-05.14.10:414][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.01.16-05.14.11:167][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.16-05.14.11:219][828]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp] ([2] browsable assets)...
+[2025.01.16-05.14.11:231][828]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp.HeroAnimbp]
+[2025.01.16-05.14.11:231][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp]
+[2025.01.16-05.14.11:256][828]LogSavePackage: Moving output files for package: /Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp
+[2025.01.16-05.14.11:257][828]LogSavePackage: Moving '../../../../../UEspace/ActionRPG-Demo01/Saved/HeroAnimbpFEABD0A84C14E05B4346A3BFC825154D.tmp' to '../../../../../UEspace/ActionRPG-Demo01/Content/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp.uasset'
+[2025.01.16-05.14.11:268][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.730 ms (total: 1.17 sec)
+[2025.01.16-05.14.11:338][828]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.16-05.14.11:338][828]LogContentValidation: Enabled validators:
+[2025.01.16-05.14.11:338][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.16-05.14.11:338][828]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.16-05.14.11:338][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.16-05.14.11:338][828]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.16-05.14.11:338][828]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.16-05.14.11:338][828]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.16-05.14.11:338][828]AssetCheck: /Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp 正在验证资产
+[2025.01.16-05.15.41:945][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.01.16-05.16.14:606][ 43]LogEditorTransaction: Undo 创建引脚连接
+[2025.01.16-05.16.14:794][ 43]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.16-05.16.15:667][ 80]LogEditorTransaction: Undo 断开引脚连接
+[2025.01.16-05.16.15:859][ 80]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.16-05.16.16:599][103]LogEditorTransaction: Undo 移动节点
+[2025.01.16-05.16.16:767][103]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.16-05.16.17:335][132]LogEditorTransaction: Undo 粘贴剪切板内容
+[2025.01.16-05.16.17:506][132]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.16-05.16.58:121][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.01.16-05.16.58:123][674]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ParagonGreystone/Characters/Heroes/Greystone/AnimationTestMap' took 0.029
+[2025.01.16-05.16.58:124][674]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp] ([2] browsable assets)...
+[2025.01.16-05.16.58:136][674]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp.HeroAnimbp]
+[2025.01.16-05.16.58:136][674]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp]
+[2025.01.16-05.16.58:161][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp_Auto4
+[2025.01.16-05.16.58:161][674]LogSavePackage: Moving '../../../../../UEspace/ActionRPG-Demo01/Saved/HeroAnimbp_Auto4ED0A388443BE6842442FD58B12DFE676.tmp' to '../../../../../UEspace/ActionRPG-Demo01/Saved/Autosaves/Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp_Auto4.uasset'
+[2025.01.16-05.16.58:164][674]LogFileHelpers: Auto-saving content packages took 0.041
+[2025.01.16-05.18.03:294][950]LogDerivedDataCache: C:/Users/v_wxcnwang/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.006 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 18 files in 40 folders with total size 0 MiB.
+[2025.01.16-05.18.07:663][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.01.16-05.18.43:695][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.01.16-05.18.48:902][ 81]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 54113.250000
+[2025.01.16-05.18.49:206][ 98]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.16-05.18.49:206][ 98]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 54113.535156, Update Interval: 339.445801
+[2025.01.16-05.19.48:267][868]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Jump_Fall.Jump_Fall
+[2025.01.16-05.19.48:267][868]LogChaosDD: Creating Chaos Debug Draw Scene for world World_25
+[2025.01.16-05.19.48:276][868]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.16-05.19.48:596][868]LogChaosDD: Creating Chaos Debug Draw Scene for world World_26
+[2025.01.16-05.19.48:947][868]LogUObjectGlobals: Warning: 寻找对象“Class /Script/ApexDestruction.DestructibleMesh”失败
+[2025.01.16-05.19.48:957][868]LogChaosDD: Creating Chaos Debug Draw Scene for world World_27
+[2025.01.16-05.20.13:096][758]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.16-05.20.13:154][758]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Jump_Fall] ([1] browsable assets)...
+[2025.01.16-05.20.13:166][758]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Jump_Fall.Jump_Fall]
+[2025.01.16-05.20.13:166][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Jump_Fall]
+[2025.01.16-05.20.13:187][758]LogSavePackage: Moving output files for package: /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Jump_Fall
+[2025.01.16-05.20.13:189][758]LogSavePackage: Moving '../../../../../UEspace/ActionRPG-Demo01/Saved/Jump_FallF36947B447758929854ACEAA3B595D61.tmp' to '../../../../../UEspace/ActionRPG-Demo01/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Jump_Fall.uasset'
+[2025.01.16-05.20.13:201][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.062 ms (total: 1.27 sec)
+[2025.01.16-05.20.13:273][758]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.16-05.20.13:273][758]LogContentValidation: Enabled validators:
+[2025.01.16-05.20.13:273][758]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.16-05.20.13:273][758]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.16-05.20.13:273][758]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.16-05.20.13:273][758]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.16-05.20.13:273][758]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.16-05.20.13:273][758]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.16-05.20.13:273][758]AssetCheck: /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Jump_Fall 正在验证资产
+[2025.01.16-05.20.14:421][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.01.16-05.20.15:228][847]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.16-05.20.15:289][847]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp] ([2] browsable assets)...
+[2025.01.16-05.20.15:300][847]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp.HeroAnimbp]
+[2025.01.16-05.20.15:300][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp]
+[2025.01.16-05.20.15:325][847]LogSavePackage: Moving output files for package: /Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp
+[2025.01.16-05.20.15:327][847]LogSavePackage: Moving '../../../../../UEspace/ActionRPG-Demo01/Saved/HeroAnimbp1A373EBB435D04866819B5980FFB49E7.tmp' to '../../../../../UEspace/ActionRPG-Demo01/Content/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp.uasset'
+[2025.01.16-05.20.15:338][847]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.101 ms (total: 1.38 sec)
+[2025.01.16-05.20.15:407][847]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.16-05.20.15:407][847]LogContentValidation: Enabled validators:
+[2025.01.16-05.20.15:407][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.16-05.20.15:407][847]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.16-05.20.15:407][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.16-05.20.15:407][847]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.16-05.20.15:407][847]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.16-05.20.15:407][847]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.16-05.20.15:407][847]AssetCheck: /Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp 正在验证资产
+[2025.01.16-05.20.34:520][875]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Jump_Land.Jump_Land
+[2025.01.16-05.20.34:595][875]LogChaosDD: Creating Chaos Debug Draw Scene for world World_28
+[2025.01.16-05.20.34:674][875]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.01.16-05.20.34:674][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.16-05.20.34:959][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.01.16-05.20.36:955][970]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.01.16-05.20.36:956][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.16-05.20.36:984][970]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.01.16-05.20.36:984][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.16-05.20.37:042][970]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.01.16-05.20.37:042][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.16-05.20.37:084][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.01.16-05.20.39:050][ 51]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Jump_Fall.Jump_Fall
+[2025.01.16-05.20.39:051][ 51]LogChaosDD: Creating Chaos Debug Draw Scene for world World_29
+[2025.01.16-05.20.39:059][ 51]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.01.16-05.20.39:361][ 51]LogChaosDD: Creating Chaos Debug Draw Scene for world World_30
+[2025.01.16-05.20.39:711][ 51]LogChaosDD: Creating Chaos Debug Draw Scene for world World_31
+[2025.01.16-05.21.12:576][666]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.01.16-05.21.12:576][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.16-05.21.12:604][666]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.01.16-05.21.12:604][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.16-05.21.12:665][666]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.01.16-05.21.12:665][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.16-05.21.12:713][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.01.16-05.22.48:314][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.01.16-05.22.50:562][660]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.16-05.22.50:619][660]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp] ([2] browsable assets)...
+[2025.01.16-05.22.50:631][660]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp.HeroAnimbp]
+[2025.01.16-05.22.50:631][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp]
+[2025.01.16-05.22.50:657][660]LogSavePackage: Moving output files for package: /Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp
+[2025.01.16-05.22.50:658][660]LogSavePackage: Moving '../../../../../UEspace/ActionRPG-Demo01/Saved/HeroAnimbpF22E5D3C4793867A2F03A9BF99C1C6B9.tmp' to '../../../../../UEspace/ActionRPG-Demo01/Content/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp.uasset'
+[2025.01.16-05.22.50:669][660]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.432 ms (total: 1.49 sec)
+[2025.01.16-05.22.50:736][660]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.16-05.22.50:736][660]LogContentValidation: Enabled validators:
+[2025.01.16-05.22.50:736][660]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.16-05.22.50:736][660]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.16-05.22.50:736][660]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.16-05.22.50:736][660]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.16-05.22.50:736][660]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.16-05.22.50:736][660]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.16-05.22.50:736][660]AssetCheck: /Game/ParagonGreystone/Characters/Heroes/Greystone/HeroAnimbp 正在验证资产
+[2025.01.16-05.23.33:952][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.01.16-05.23.35:896][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.01.16-05.25.26:901][383]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 54509.859375
+[2025.01.16-05.25.27:900][386]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.16-05.25.27:900][386]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 54510.523438, Update Interval: 347.367157
